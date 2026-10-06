@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.streamlit/
+data/raw/*.csv
+models/*.pkl
+models/*.h5
